@@ -1,3 +1,8 @@
+# Quarter = 0.25 USD
+# Dime = 0.10 USD
+# Nickel = 0.05 USD
+# Penny = 0.01 USD
+
 MENU = {
     "espresso": {
         "ingredients": {
